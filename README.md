@@ -1,1 +1,2 @@
-# AVA_1_Sistemas-Evolutivos-e-Aplicados-Rob-tica
+# AVA_1_Sistemas-Evolutivos_Aplicados_RobOtica:
+O objetivo desta prática é aplicar os conceitos fundamentais da visão computacional e da detecção de objetos, aplicando o modelo YOLO em um ambiente de desenvolvimento em nuvem (Google Colab) com suporte a aceleração por GPU. A atividade visa a implementação prática da rede, a avaliação criteriosa de suas métricas de desempenho e a análise comparativa entre diferentes variações do modelo.
